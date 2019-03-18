@@ -13,3 +13,4 @@ Mat is basically a class with two data parts: the matrix header (containing info
 ## What does this algorithm do?
 
 Convert Mat (OPENCV) to base64, and vise-versa.
+
