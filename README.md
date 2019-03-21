@@ -1,5 +1,7 @@
 # Mat to Base64 and Base64 to Mat
 
+:star::star::star::star::star:
+
 ## What is Base64?
 
 Base64 is a group of similar binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term Base64 originates from a specific MIME content transfer encoding.
