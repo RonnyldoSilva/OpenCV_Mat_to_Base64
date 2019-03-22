@@ -1,4 +1,4 @@
-# Mat to Base64 and Base64 to Mat
+# Mat to Base64 and Base64 to Mat (OPENCV)
 
 :star::star::star::star::star:
 
