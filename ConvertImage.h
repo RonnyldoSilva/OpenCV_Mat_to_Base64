@@ -5,7 +5,6 @@
 #include <vector>
 #include <string>
 
-
 using namespace std;
 using namespace cv;
 
@@ -21,12 +20,14 @@ public:
 	 * Constritor default da classe
 	 */
 	ImagemConverter();
+	
 	/**
-	 * Método que converte uma image base64 num cv::Mat
+	 * Método que converte uma imagem base64 em um cv::Mat
 	 * @param imageBase64, imagem em base64
 	 * @return imagem em cv::Mat
 	 */
 	cv::Mat str2mat(const string& imageBase64);
+	
 	/**
 	 * Método que converte uma cv::Mat numa imagem em base64
 	 * @param img, imagem em cv::Mat
