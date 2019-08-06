@@ -55,6 +55,7 @@ std::string ImagemConverter::base64_encode(uchar const* bytes_to_encode, unsigne
 		{
 			ret += base64_chars[char_array_4[j]];
 		}
+		
 		while ((i++ < 3)) 
 		{
 			ret += '=';
