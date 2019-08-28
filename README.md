@@ -1,5 +1,7 @@
 # Mat to Base64 and Base64 to Mat (OPENCV)
 
+(If you like, leave a star)
+
 :star::star::star::star::star:
 
 ## What does this algorithm do?
