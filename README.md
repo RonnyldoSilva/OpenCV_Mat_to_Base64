@@ -5,7 +5,7 @@
 :star::star::star::star::star:
 
 ## What does this algorithm do?
-
+ 
 Convert Mat (OPENCV) to base64, and vise-versa.
 
 ## What is Base64?
