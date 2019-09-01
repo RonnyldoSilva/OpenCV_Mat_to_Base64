@@ -1,6 +1,6 @@
 #include "ConvertImage.h"
 
-ImagemConverter::ImagemConverter() {}
+ImagemConverter::ImagemConverter() {} 
 
 static const std::string base64_chars =
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
