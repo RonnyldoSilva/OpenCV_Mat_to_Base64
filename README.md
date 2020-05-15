@@ -1,6 +1,6 @@
 # Mat to Base64 and Base64 to Mat (OPENCV C++)
 
-(If you like, leave a star) 
+(If you like, leave a star)
 
 :star::star::star::star::star:
 
