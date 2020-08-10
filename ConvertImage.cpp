@@ -63,11 +63,10 @@ std::string ImagemConverter::base64_encode(uchar const* bytes_to_encode, unsigne
 	}
 
 	return ret;
-
 }
 
-std::string ImagemConverter::base64_decode(std::string const& encoded_string) {
-
+std::string ImagemConverter::base64_decode(std::string const& encoded_string)
+{
 	int in_len = encoded_string.size();
 	int i = 0;
 	int j = 0;
